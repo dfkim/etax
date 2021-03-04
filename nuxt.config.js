@@ -62,6 +62,9 @@ export default {
   ** Build configuration
   */
   build: {
+    vendor: [
+      'socket.io-client'
+    ],
     transpile: ['vuetify/lib'],
     plugins: [new VuetifyLoaderPlugin()],
     loaders: {

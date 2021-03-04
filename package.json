@@ -16,9 +16,12 @@
     "@nuxtjs/axios": "^5.5.3",
     "cross-env": "^5.2.0",
     "nuxt": "^2.8.0",
+    "socket.io-client": "^3.0.4",
+    "sockjs-client": "^1.5.0",
     "vue-chartist": "^2.2.0",
     "vuetify": "^1.5.14",
-    "vuetify-loader": "^1.2.2"
+    "vuetify-loader": "^1.2.2",
+    "webstomp-client": "^1.2.6"
   },
   "devDependencies": {
     "node-sass": "^4.12.0",
